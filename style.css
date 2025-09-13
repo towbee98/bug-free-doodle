@@ -19,7 +19,6 @@ main{
     gap: 10px;
     padding: 20px;
     box-shadow: 10px 10px 0 rgba(0, 0, 0, 1);
-
     font-family: " https://fonts.google.com/specimen/Figtree", sans-serif;
     /* justify-content: left; */
 }
